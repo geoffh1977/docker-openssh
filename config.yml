@@ -1,0 +1,13 @@
+# Python Container Configuration
+dockerUser: geoffh1977
+dockerUserEmail: geoffh1977@gmail.com
+license: gnu-gpl-v3.0
+
+# Source Image Variables
+buildImageName: alpine
+buildImageVersion: latest
+
+# Final Image Variables
+finalImageName: openssh
+finalImageVersion: latest
+appName: OpenSSH
